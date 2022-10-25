@@ -1,0 +1,38 @@
+.dash{
+    font-size: 50px;
+    margin-left: 25px;
+    text-align: center;
+}
+.hometext{
+    text-align: center;
+    margin-top: 50px;
+}
+.protext{
+    text-align: center;
+    margin-top: 50px;
+    border: solid black;
+}
+
+.container1{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 50px;
+    justify-content: space-between;
+    border: 5px solid black;
+}
+.cards{
+    max-width:250px;
+}
+h3{
+    text-align: center;
+}
+h1{
+
+    margin-top: 65px;
+    text-align: center;
+}
+.dashbor{
+    text-align: center;
+    margin-top: 25px;
+    
+}
